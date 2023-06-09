@@ -6,6 +6,9 @@
 Туторіал: https://www.instructables.com/DIY-3D-Printer-How-to-Make-a-3D-Printer-That-Anyon/
 
 СПИСКИ
-  CHECKLIST
   SHOPPINGLIST
+    Прочитай туторіал, зроби електронну таблицю - список покупок
+  CHECKLIST
+    Прочитай туторіал та виконуй кроки
+  
 
